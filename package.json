@@ -1,5 +1,5 @@
 {
-  "homepage": "https://terrymungai.github.io/React-project/",
+  "homepage": "https://terrymungai.github.io/greensfarm-site/",
   "name": "my_app",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [  
+    "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
