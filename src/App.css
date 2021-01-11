@@ -1,0 +1,52 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  padding: 4%;
+  flex: 1 12%;
+}
+
+.product-info {
+  margin-top: auto;
+}
+
+.add-to-cart-btn {
+  background: brown;
+  border: none;
+}
+
+.photo {
+  height: 30vh;
+  width: 30vh;
+}
+panel1 {
+  color: darkgreen;
+}
+panel2 {
+  color: green
+}
+h1{
+  color: darkgreen;
+  margin-top: 0px;
+}
+h2{
+  color: brown;
+  margin-top: -2500px;
+  font-size: 45px;
+  letter-spacing: px;
+  text-align: center;
+  font-weight: 350;
+
+}
+body{
+  background-color: white;
+}
+ h3{
+  color: brown;
+  font-size: 40px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  
+}
