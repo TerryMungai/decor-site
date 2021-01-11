@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greensfarm-site/static/css/main.528f0d19.chunk.css",
+    "main.js": "/greensfarm-site/static/js/main.acae3d5a.chunk.js",
+    "main.js.map": "/greensfarm-site/static/js/main.acae3d5a.chunk.js.map",
+    "runtime-main.js": "/greensfarm-site/static/js/runtime-main.543a95bb.js",
+    "runtime-main.js.map": "/greensfarm-site/static/js/runtime-main.543a95bb.js.map",
+    "static/js/2.83ff8c38.chunk.js": "/greensfarm-site/static/js/2.83ff8c38.chunk.js",
+    "static/js/2.83ff8c38.chunk.js.map": "/greensfarm-site/static/js/2.83ff8c38.chunk.js.map",
+    "index.html": "/greensfarm-site/index.html",
+    "precache-manifest.84c0463f2e4f014a49251d04665d57fb.js": "/greensfarm-site/precache-manifest.84c0463f2e4f014a49251d04665d57fb.js",
+    "service-worker.js": "/greensfarm-site/service-worker.js",
+    "static/css/main.528f0d19.chunk.css.map": "/greensfarm-site/static/css/main.528f0d19.chunk.css.map",
+    "static/js/2.83ff8c38.chunk.js.LICENSE.txt": "/greensfarm-site/static/js/2.83ff8c38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543a95bb.js",
+    "static/js/2.83ff8c38.chunk.js",
+    "static/css/main.528f0d19.chunk.css",
+    "static/js/main.acae3d5a.chunk.js"
+  ]
+}
